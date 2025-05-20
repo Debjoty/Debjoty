@@ -46,7 +46,7 @@ A passionate **Data Analyst** skilled in transforming data into actionable insig
 
 ### 🐍 GitHub Contribution Snake
 
-### 🐍 GitHub Contribution Snake
+
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Debjoty/Debjoty/output/github-snake.svg)
 
