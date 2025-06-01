@@ -1,4 +1,4 @@
-""# 👋 Hi, I'm Debjoty!
+"" 👋 Hi, I'm Debjoty!
 A passionate **Data Analyst** skilled in transforming data into actionable insights.
 
 ---
