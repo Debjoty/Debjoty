@@ -1,5 +1,5 @@
-"👋 Hi, I'm Debjoty!
-A passionate **Data Analyst** skilled in transforming data into actionable insights."
+👋 Hi, I'm Debjoty!
+A passionate **Data Analyst** skilled in transforming data into actionable insights.
 
 ---
 
